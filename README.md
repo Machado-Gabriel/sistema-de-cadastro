@@ -5,6 +5,6 @@
   Para rodar esse projeto na sua máquina, favor digitar no cmd:
   
   '''
-  npm install react
+  npm install node.js
   '''
   
